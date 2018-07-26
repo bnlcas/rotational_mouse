@@ -1,0 +1,2 @@
+﻿     Creating library C:\prototyping_tools\opencv\wkspaces\open_cv_test_app\x64\Debug\open_cv_test_app.lib and object C:\prototyping_tools\opencv\wkspaces\open_cv_test_app\x64\Debug\open_cv_test_app.exp
+LINK : fatal error LNK1561: entry point must be defined

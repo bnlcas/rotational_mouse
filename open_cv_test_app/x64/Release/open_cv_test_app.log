@@ -1,0 +1,9 @@
+﻿  camera_stream.cpp
+c:\prototyping_tools\opencv\wkspaces\open_cv_test_app\open_cv_test_app\visual_odometry.h(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\prototyping_tools\opencv\wkspaces\open_cv_test_app\x64\Release\open_cv_test_app.lib and object C:\prototyping_tools\opencv\wkspaces\open_cv_test_app\x64\Release\open_cv_test_app.exp
+  Generating code
+  28 of 257 functions (10.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  open_cv_test_app.vcxproj -> C:\prototyping_tools\opencv\wkspaces\open_cv_test_app\x64\Release\open_cv_test_app.dll
