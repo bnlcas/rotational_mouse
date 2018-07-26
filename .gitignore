@@ -1,3 +1,8 @@
 # Visual Studio 2015 cache directory
 /.vs/
 
+rotational_mouse_unity_demo/Library/
+rotational_mouse_unity_demo/Temp/
+rotational_mouse_unity_demo/ProjectSettings/
+rotational_mouse_unity_demo/UnityPackageManager/
+rotational_mouse_unity_demo/rotational_mouse_unity_demo.sln
